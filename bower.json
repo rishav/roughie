@@ -1,0 +1,22 @@
+{
+  "name": "roughie",
+  "authors": [
+    "Rishav Rastogi <rishav.rastogi@gmail.com>"
+  ],
+  "description": "Take Notes and export'em",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "simplemde": "^1.11.2"
+  }
+}
